@@ -27,7 +27,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
 
 
 //💌global.pairingNumber = "" //put your bot number here💌
-global.mods = ['923042205427'] 
+global.mods = ['6283176793414'] 
 global.prems = ['']
 global.allowed = ['']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -75,7 +75,7 @@ global.APIs = {
 //APIs keys
 global.APIKeys = {
   // APIKey Here
-  // 'https://website': 'apikey'
+  // 'https://website': 'test_4Kjmur5En7pcZxQ6xlNbq2ugjdird01aEt2y6tly'
    'https://api.fgmods.xyz': 'm2XBbNvz',
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
@@ -124,10 +124,10 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 
 //Sticker WM
-global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
-global.packname = 'Prince♥️' 
-global.author = 'Prince♥️' 
+global.botname = process.env.LIXZY
+global.princebot = '🛡️LIXZY-𝘉𝘖𝘛-𝘔𝘋🛡️'
+global.packname = 'Lixzy♥️' 
+global.author = 'Lixzy♥️' 
 global.princeig = 'https://www.instagram.com' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
